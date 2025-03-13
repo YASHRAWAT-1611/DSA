@@ -1,4 +1,4 @@
-// Variables 
+// Variables and Data Types
 
 #include <iostream>
 using namespace std;
